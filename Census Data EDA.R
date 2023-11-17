@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggthemes)
 
 #import dataset from local file directory
-dataset <- read_csv("/Users/ayokunlejames/Downloads/MSc Data Science/Data Science files/Assessment/Census raw dataset.csv")
+dataset <- read_csv("path to file/File_name.csv")
 
 #view dataset
 dataset |> View()
