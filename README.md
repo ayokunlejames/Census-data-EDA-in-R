@@ -3,4 +3,4 @@ In this project, I performed exploratory data analysis on a modified snapshot of
 
 Data transformation was performed on the dataset because it did not follow the three interrelated rules of a tidy data as prescribed by Hadley Wickham (https://doi.org/10.18637/jss.v059.i10)
 
-This repository contains the raw dataset (.csv), an R script (.R) with several applications of ggplot charts and data science techniques in drawing insights about the socio-economic conditions of demographics in England, a Quarto markdown document (.qmd) used to generate a report, the html report generated, and a powerpoint presentation (.pptx) of insights generated. 
+This repository contains the raw dataset (.csv), an R script (.R) with several applications of ggplot charts and data science techniques in drawing insights about the socio-economic conditions of demographics in England, a Quarto markdown document (.qmd) used to generate a report, the html and pdf report generated, and a powerpoint presentation (.pptx) of insights generated. 
